@@ -82,16 +82,5 @@ src/
 4. build for production
     ng build --prod
 ---
-## 🌐 Deployment
 
-This project is deployed on **Netlify**.  
-
-
-
----
-
-## 🙌 Author
-
-Developed by **Your Name**.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hadush-brhane/)
 
