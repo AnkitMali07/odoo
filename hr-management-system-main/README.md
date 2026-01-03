@@ -4,7 +4,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-Deployed-brightgreen)
 
 A simple HR Management System built with **Angular 8**, designed to manage employees, salaries, and other HR tasks.  
-You can try it live here: [Demo Link](https://hr-management-system1.netlify.app/)
+
 
 
 ## 🚀 Features
@@ -86,7 +86,7 @@ src/
 
 This project is deployed on **Netlify**.  
 
-You can try it live here: [Demo Link](https://hr-management-system1.netlify.app/)
+
 
 ---
 
